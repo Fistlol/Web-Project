@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Grand Theft Auto V",
+      "description": "Grand Theft Auto V (aka GTA 5 or GTA V) is the fifteenth game in the Grand Theft Auto series, made in the Action / Sandbox genre. For the first time in the history of the series, there are three main characters in the game at once, between whom you can switch almost at any time.",
+      "imageUrl": "https://i08.kanobu.ru/c/9b78be6f4896019b6d8e8ed7c947a653/200x284/u.kanobu.ru/games/265cd307-6821-43b4-a74f-81e2242c2cc3.jpg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "Minecraft",
+      "description": "Minecraft is an indie open-world sandbox game with survival elements. In style, the game world is entirely made up of blocks (terrain, items, mobs, player), and low-resolution textures (16x16 texels) are used for texturing.",
+      "imageUrl": "https://i14.kanobu.ru/c/e763040eafe3b2fdab15ae685c7761a8/200x284/u.kanobu.ru/games/96/098131019914445f93d5a107a3e4b1b7",
+      "price": 199
+    },
+    {
+      "id": 3,
+      "name": "Assassin's Creed II",
+      "description": "Assassin's Creed II is a third-person action adventure game. The game takes place in the Middle Ages in Italy. Desmond, a modern-day descendant of the greatest killers in history, finds himself in the body of Ezio Auditore de la Firenze, masterful of the Hashashi skills.",
+      "imageUrl": "https://i06.kanobu.ru/c/7786d4e1affedc9c463bc116a60cb156/200x284/u.kanobu.ru/games/47/9efa648581fc421faae618303bec9214",
+      "price": 399
+    },
+    {
+      "id": 4,
+      "name": "Grand Theft Auto IV ",
+      "description": "Grand Theft Auto IV is the fourth installment of Rockstar's gangster saga. The game tells the story of an emigrant from a certain Russian-speaking country - Niko Belire, who comes to America at the invitation of his brother, who likewise left for the United States in search of his dream.",
+      "imageUrl": "https://i04.kanobu.ru/c/6fc99b300dd66e24e4cdc14c13f6bc8b/200x284/u.kanobu.ru/games/85/7cbfce974976454a983014ceefa00fb0",
+      "price": 499
+    },
+    {
+      "id": 5,
+      "name": "Grand Theft Auto: San Andreas",
+      "description": "the fifth installment of the GTA series, which takes place in 1992, during the heyday of crime in the metropolitan areas of California. The player controls the main character Carl Johnson, nicknamed CJ, who returned to the city of Los Santos after five years of living in Liberty City.",
+      "imageUrl": "https://i11.kanobu.ru/c/c1360e4be90e0b379a7148f29a05d17f/200x284/u.kanobu.ru/games/1/750e0caa57b341d68049c3fd7effe391",
+      "price": 99
+    },
+    {
+      "id": 6,
+      "name": "Mass Effect 2",
+      "description": "multi-platform sequel, the second part of the space role-playing opera. The events of the game continue the plot of the original - Captain Shepard manages to repel the attack of the monstrous 'reaper' ship on the Citadel, but his adventures do not end there.",
+      "imageUrl": "https://i10.kanobu.ru/c/1d3867bce898d4cbbfb7cebe651a8589/200x284/u.kanobu.ru/games/46/d0413559fc034463b46e48b628951779",
+      "price": 111
+    },
+    {
+      "id": 7,
+      "name": "Mafia 2",
+      "description": "is an action-adventure game that takes players into the underworld of America in the 40-50s of the last century. The events of the game start in February 1945, when the Second World War is still going on.",
+      "imageUrl": "https://i04.kanobu.ru/c/b6dc6a012f0b5fd4c774cc074452daf3/200x284/u.kanobu.ru/games/72/25478a08b5414e78a1cb4764e959004d",
+      "price": 222
+    },
+    {
+      "id": 8,
+      "name": "Far Cry 3",
+      "description": "This is an adventure first-person shooter with an open world and RPG elements, as well as the third (not counting add-ons and spin-offs) game from the series of games of the same name. The main character of the third part is a completely new protagonist named Jason Brodie.",
+      "imageUrl": "https://i05.kanobu.ru/c/e0070fb9b9777140432e391787fdd488/200x284/u.kanobu.ru/games/31/f19e86587b7f4341a77839717de01841",
+      "price": 333
+    },
+    {
+      "id": 9,
+      "name": "Call of Duty: Modern Warfare 2",
+      "description": "sequel to one of the most popular games in the Call of Duty series. The storyline campaign continues the story of the original game, in which players stopped an ultra-right nationalist who threatened to destroy the United States with a nuclear missile.",
+      "imageUrl": "https://i14.kanobu.ru/c/9f296f29f914d2b9d57c9af132020d65/200x284/u.kanobu.ru/games/22/0189802f6a94494f8345de776090bf67",
+      "price": 444
+    },
+    {
+      "id": 10,
+      "name": "Need for Speed: Most Wanted",
+      "description": "The ninth game in Electronic Arts' arcade racing series. For the first time in a long time, the police returned to the series and large-scale, beautiful chases appeared. The game takes place in the fictional city of Rockport, in which the player is given complete freedom of movement.",
+      "imageUrl": "https://i06.kanobu.ru/c/331084b9d7cef911fbda3c2d67b8101c/200x284/u.kanobu.ru/games/e17e6c57-15c6-4936-bde9-7e55eacf2e30.jpg",
+      "price": 555
+    },
+    {
+      "id": 11,
+      "name": "Battlefield 3 ",
+      "description": "continuation of the popular series of network shooters, which is created on the Frostbite 2.0 engine, which is designed to be responsible for the total destruction of everything and everyone on the map. In the online part of Battlefield 3, up to 64 people will be able to converge, 24 types of vehicles and 17 types of weapons have been implemented, which players can use on a dozen different maps, from large to small.",
+      "imageUrl": "https://i13.kanobu.ru/c/a2a886ebf4e24c71f3a8c97857cab049/200x284/u.kanobu.ru/games/42/120816e1b1474d8aad3ed0fa663c0e8f",
+      "price": 666
+    },
+    {
+      "id": 12,
+      "name": "Portal 2",
+      "description": "the second part of the first-person puzzle from Valve, continuing to experiment with the player and portals. Many years have passed since the first part of the game, and the Aperture laboratory lies in ruins.",
+      "imageUrl": "https://i05.kanobu.ru/c/de212964449b571ab7001252a71fc3f9/200x284/u.kanobu.ru/games/42/cc5be322cc0e4634811f0d9f42b370a8",
+      "price": 777
+    },
+    {
+      "id": 13,
+      "name": "Dragon Age: Origins",
+      "description": "is a single-player fantasy RPG that can be called the spiritual successor to the famous Baldur's Gate. Players will have to wander around a fairy-tale world as part of a squad, fighting side by side with its members and communicating with them.",
+      "imageUrl": "https://i14.kanobu.ru/c/e835bb2c2714caa87b5f6fafdddb4307/200x284/u.kanobu.ru/games/23/f4f709d6021b41089ddb9887e53580ef",
+      "price": 888
+    },
+    {
+      "id": 14,
+      "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "description": "is a first person RPG shooter created by GSC Game World. The game is based on the motives of the cult work of the Strugatsky brothers 'Roadside Picnic', from which the idea of the Zone, artifacts and stalkers who get them are taken.",
+      "imageUrl": "https://i11.kanobu.ru/c/0cb610692620f5483ca2ff241eae4f80/200x284/u.kanobu.ru/games/99/9e77c6c076cb435286d8b94eb97d8eee",
+      "price": 889
+    },
+    {
+      "id": 15,
+      "name": "Prototype",
+      "description": "This is a third-person action game that takes place in New York infected with a dangerous virus. The main character, Alex Mercer, has superpowers, but he absolutely does not remember when and under what circumstances they appeared. Memories of other people allow Alex to piece together his own memory, in order to understand what kind of virus has spread throughout the city, and how he himself is associated with them.",
+      "imageUrl": "https://i17.kanobu.ru/c/ae0a26002c35773dd2caf6e4fe526311/200x284/u.kanobu.ru/games/88/c155d633c1914ed7a4a365579c0c7d5c",
+      "price": 990
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Grand Theft Auto V",
+        "description": "Grand Theft Auto V (aka GTA 5 or GTA V) is the fifteenth game in the Grand Theft Auto series, made in the Action / Sandbox genre. For the first time in the history of the series, there are three main characters in the game at once, between whom you can switch almost at any time.",
+        "imageUrl": "https://i08.kanobu.ru/c/9b78be6f4896019b6d8e8ed7c947a653/200x284/u.kanobu.ru/games/265cd307-6821-43b4-a74f-81e2242c2cc3.jpg",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Minecraft",
+        "description": "Minecraft is an indie open-world sandbox game with survival elements. In style, the game world is entirely made up of blocks (terrain, items, mobs, player), and low-resolution textures (16x16 texels) are used for texturing.",
+        "imageUrl": "https://i14.kanobu.ru/c/e763040eafe3b2fdab15ae685c7761a8/200x284/u.kanobu.ru/games/96/098131019914445f93d5a107a3e4b1b7",
+        "price": 199
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Grand Theft Auto IV ",
+        "description": "Grand Theft Auto IV is the fourth installment of Rockstar's gangster saga. The game tells the story of an emigrant from a certain Russian-speaking country - Niko Belire, who comes to America at the invitation of his brother, who likewise left for the United States in search of his dream.",
+        "imageUrl": "https://i04.kanobu.ru/c/6fc99b300dd66e24e4cdc14c13f6bc8b/200x284/u.kanobu.ru/games/85/7cbfce974976454a983014ceefa00fb0",
+        "price": 499
+      },
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
