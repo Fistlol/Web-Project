@@ -1,0 +1,26 @@
+.block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #1c1c1c;
+  color: #fff;
+}
+
+.block__nav__logo {
+  height: 50px;
+}
+
+.block__nav {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+.block__header {
+  display: flex;
+  justify-content: center;
+}
+
+.block__shop {
+  display: flex;
+}

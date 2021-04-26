@@ -1,0 +1,17 @@
+<div class="d-flex flex-column flex-md-row align-items-center
+  p-3 px-md-4 mb-3 border-bottom shadow-sm block">
+  <nav class="my-2 my-md-0 mr-md-3" class="block__nav">
+    <img src="./assets/icons/logo.png" class="block__nav__logo">
+    <a class="p-2 text-white" [routerLink]="['/shop']">Shop</a>
+    <a class="p-2 text-white" [routerLink]="['/celemptio']">About Company</a>
+    <a class="p-2 text-white" [routerLink]="['/support']">Support</a>
+    <a class="p-2 text-white" [routerLink]="['/about']">About us</a>
+  </nav>
+  <h5 class="my-0 mr-md-auto font-weight-normal" class="block__header">
+    <app-header></app-header>
+  </h5>
+  <div class="block__shop">
+    <a class="btn btn-primary" [routerLink]="['/register']">Sign up</a>
+    <a class="btn btn-outline-secondary" [routerLink]="['/login']">Login</a>
+  </div>
+</div>

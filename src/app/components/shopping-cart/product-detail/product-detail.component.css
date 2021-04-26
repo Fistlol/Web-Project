@@ -1,0 +1,12 @@
+.block {
+  color: #fff;
+  flex-direction: column;
+}
+
+p {
+  color: #fff;
+}
+
+img {
+  width: 250px;
+}
